@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "CreacionControles\Prueba.csproj", "{7C78BA35-6478-47EB-910E-1046E138F2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controles", "Control\Controles.csproj", "{FF3D72DB-F5A7-416D-A547-EEA51BBA399B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{113F3569-7142-4DEF-8546-C722569A6AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C78BA35-6478-47EB-910E-1046E138F2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C78BA35-6478-47EB-910E-1046E138F2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C78BA35-6478-47EB-910E-1046E138F2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C78BA35-6478-47EB-910E-1046E138F2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3D72DB-F5A7-416D-A547-EEA51BBA399B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3D72DB-F5A7-416D-A547-EEA51BBA399B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3D72DB-F5A7-416D-A547-EEA51BBA399B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3D72DB-F5A7-416D-A547-EEA51BBA399B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113F3569-7142-4DEF-8546-C722569A6AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113F3569-7142-4DEF-8546-C722569A6AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113F3569-7142-4DEF-8546-C722569A6AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113F3569-7142-4DEF-8546-C722569A6AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145E820F-7EDF-4617-A523-16A82717029C}
+	EndGlobalSection
+EndGlobal
