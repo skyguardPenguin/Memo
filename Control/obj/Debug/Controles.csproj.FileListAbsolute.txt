@@ -1,0 +1,8 @@
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\bin\Debug\Control.dll
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\bin\Debug\Control.pdb
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Control.dll
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Control.pdb
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Controles.UserControl1.resources
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\sinoa\source\repos\Topicos2\CreacionControles\Control\obj\Debug\Controles.csprojAssemblyReference.cache
